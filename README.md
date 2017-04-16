@@ -18,7 +18,7 @@ CCC-LMS is the project of Code Margonda to manage the course participant and cou
 
 ## UI Design
 
-[ui-image](system-design/ccc-lms_design_interface.png)
+![ui-image](system-design/ccc-lms_design_interface.png)
 
 
 
